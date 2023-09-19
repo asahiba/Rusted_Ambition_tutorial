@@ -1,5 +1,6 @@
 # Rusted_Ambition_tutorial
 <button id="toggleLanguage">切换语言</button>
+
 <script>
   const toggleButton = document.getElementById('toggleLanguage');
   const chineseContent = document.getElementById('chineseContent');
