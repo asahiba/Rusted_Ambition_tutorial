@@ -5,6 +5,4 @@ https://github.com/asahiba/Rusted_Ambition_tutorial/commit/b7eca62ca1a6a51bde4fd
 # Учебник Rusted Ambition 
 https://github.com/asahiba/Rusted_Ambition_tutorial/commit/b023a58551693e26dcd96f319e043d22ddb5dca1
 # 
-discord：https://discord.gg/BZGNBPsMag
-
 steam: https://steamcommunity.com/sharedfiles/filedetails/?id=2958756914
