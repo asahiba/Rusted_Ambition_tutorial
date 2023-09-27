@@ -6,3 +6,5 @@ Tutorial: Click the "Create README_EN.md" or check the following link https://gi
 教程: 点击"Create README_CN.md"或查看下方链接https://github.com/asahiba/Rusted_Ambition_tutorial/commit/b7eca62ca1a6a51bde4fded6965e9d5c0da0677c
 
 discord：https://discord.gg/BZGNBPsMag
+
+steam: https://steamcommunity.com/sharedfiles/filedetails/?id=2958756914
