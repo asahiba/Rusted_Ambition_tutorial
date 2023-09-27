@@ -5,4 +5,4 @@
 
 Tutorial: Click the "Create README_EN.md" or check the following link https://github.com/asahiba/Rusted_Ambition_tutorial/commit/9a2e1d3948003075548ebd2875c4e5a64dc5abb5
 
-遊び方："Create README_JP.md"をクリック，或いは下の方のhttps://github.com/asahiba/Rusted_Ambition_tutorial/commit/e7871be7a4250948a2883846196bed6db0c90aeaというリンクをクリックしてください。
+遊び方："Create README_JP.md"をクリック，或いは下の方のhttps://github.com/asahiba/Rusted_Ambition_tutorial/commit/e7871be7a4250948a2883846196bed6db0c90aea というリンクをクリックしてください。
